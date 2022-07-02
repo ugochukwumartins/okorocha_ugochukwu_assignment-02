@@ -77,7 +77,7 @@ function celsiusToFahrenheit(arrayOfNumbers) {
       convertedVal=0;
  value=0;}
 }
-   console.log(fahrenheit);
+  
     return fahrenheit;
   
     
